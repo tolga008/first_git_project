@@ -5,6 +5,9 @@ public class HelloWorld {
         System.out.println("Hello World!");
         System.out.println("Naber");
         System.out.println("nasilsin");
+        System.out.println("Gunaydin");
+        System.out.println("bugun hava cok guzel");
+        
 
     }
 }
