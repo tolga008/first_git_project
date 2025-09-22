@@ -5,6 +5,7 @@ public class HelloCydeo {
         System.out.println("Hello Cydeo!");
         //Some Changes are added.
         //intelliJ de bazi degisiklikler eklendi.
+        //bir deneme daha yaoildi
 
     }
 }
