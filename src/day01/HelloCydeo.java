@@ -4,5 +4,7 @@ public class HelloCydeo {
     public static void main(String[] args) {
         System.out.println("Hello Cydeo!");
         //Some Changes are added.
+        //intelliJ de bazi degisiklikler eklendi.
+
     }
 }
